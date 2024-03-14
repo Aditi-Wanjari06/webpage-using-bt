@@ -6,19 +6,11 @@ body {
     height: 80px;
     width: 130px;
 }
-
+ 
 .container {
     height: 350px;
     width: 250px;
     border: 1px solid black;
     border-radius: 10px;
-}
-
-.col-md-4 img {
-    width: 380%;
-}
-
-.text-heading {
-    text-align: center;
 }
 
